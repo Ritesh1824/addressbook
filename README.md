@@ -4,11 +4,11 @@ contact information.
 
 User can perform action and manage their contact through Command Line Console.
 
-##Pre-requisites
+## Pre-requisites
 Java, Maven and IDE (Eclipse, Intellij) should be installed and configured in system to build and run the application in local.
 JDK 17 and Spring Boot 2.7.0 version is used to build this application.
 
-##Usage
+## Usage
 To run program in local got to project path and run mvn spring-boot:run command or import project to IDE
 and run application from there. User can perform below action from AddressBook app.
 
